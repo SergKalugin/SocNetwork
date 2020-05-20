@@ -1,0 +1,29 @@
+.footer {
+    width: 100%;
+    background-color: #ccc;
+}
+.footer .container {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_logo {
+    display: block;
+    max-width: 80px;
+}
+.footer_logo  img {
+    display: block; 
+    max-width: 100%;
+}
+.setting {
+    margin-top: 35px;
+}
